@@ -1,4 +1,4 @@
-# SQL_project
+**INSTAGRAM USER ANALYSIS**
 
 SQL Tasks :
 A) Marketing Analysis:
